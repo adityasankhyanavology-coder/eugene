@@ -1,0 +1,1871 @@
+@media screen and (max-width: 1400px) {}
+
+@media screen and (max-width: 1300px) {}
+
+@media screen and (max-width: 1200px) {
+    .header-menu ul {
+
+        gap: 20px;
+    }
+
+    .header-menu ul a {
+        font-size: 15px;
+
+    }
+
+    .header-icon {
+
+        gap: 15px;
+    }
+
+    .section-heading-50 {
+        font-size: 40px;
+    }
+
+    .touch-card,
+    .touch-card-a {
+        max-width: 50%;
+    }
+
+    .touch-inner-card input {
+        padding: 0 20px;
+    }
+
+    .preorder-inner-tittel-a h1 {
+        font-size: 40px;
+
+    }
+
+    .miles-inner-img img {
+        width: 100%;
+        max-width: 400px;
+    }
+
+    .miles-wrapperr {
+
+        gap: 30px;
+    }
+
+
+    .sports-reader h4 {
+        font-size: 20px;
+        font-weight: 800;
+        line-height: 15px;
+        color: black;
+    }
+
+    .sports-inner-titel h6 {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 25px;
+        color: black;
+    }
+
+    .sports-reader h4 {
+        font-size: 14px;
+
+    }
+
+    .whats-titel h1 {
+        font-size: 35px;
+        font-weight: 700;
+
+    }
+
+    .whats-sub-titel p {
+        max-width: 383px;
+        line-height: 25px;
+        margin-bottom: 20px;
+    }
+
+    .some-where-titel h1 {
+        font-size: 30px;
+        max-width: 457px;
+        line-height: 40px;
+
+    }
+
+    .some-where-titel p {
+        font-size: 17px;
+        font-weight: 400;
+        line-height: 30px;
+        max-width: 538px;
+
+    }
+
+    .thearapy-subheading img {
+        width: 100%;
+        max-width: 450px;
+    }
+
+    .thearpy-a p {
+        font-size: 17px;
+        line-height: 30px;
+        max-width: 457px;
+
+    }
+
+    .thearapy-first-heading p {
+        font-size: 15px;
+        max-width: 430px;
+        color: white;
+    }
+
+    .thearapy-first-heading h1 {
+        font-size: 23px;
+        max-width: 223px;
+    }
+
+    .collection-inner-titel h5 {
+
+        font-size: 25px;
+
+    }
+
+    .collection-inner-titel p {
+        color: #fff;
+        font-size: 16px;
+        line-height: 25px;
+        margin-bottom: 20px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media screen and (max-width: 1024px) {
+    .footer-menu h4 {
+
+        font-size: 20px;
+
+        margin-bottom: 19px;
+    }
+
+    .footer-menu a {
+        font-size: 15px;
+
+    }
+
+    .after-banner-wrapper {
+        flex-direction: column;
+    }
+
+    .after-banner-content {
+        max-width: 100%;
+    }
+
+    .touch-card {
+
+        width: 100%;
+        max-width: 440px;
+
+    }
+
+    .touch-card-a {
+
+        max-width: 440px;
+
+    }
+
+    section.after-banner {
+        padding: 40px 0 40px;
+    }
+
+    section.glim {
+        padding: 30px 0px 60px;
+    }
+
+    .vans {
+        padding: 40px 0;
+    }
+
+    .preorder-inner-tittel-a h1 {
+        font-size: 37px;
+    }
+
+    .miles-titel p {
+        max-width: 340px;
+        font-size: 15px;
+        margin-top: 10px;
+        margin-bottom: 25px;
+    }
+
+    .miles-inner-img img {
+        width: 100%;
+        max-width: 350px;
+    }
+
+
+    .miles-titell p {
+        max-width: 340px;
+        font-size: 15px;
+        margin-top: 10px;
+        margin-bottom: 25px;
+    }
+
+
+    .miles-inner-imgg {
+        width: 100%;
+        max-width: 350px;
+
+    }
+
+
+    .sports-reader h4 {
+        font-size: 20px;
+        font-weight: 800;
+        line-height: 40px;
+
+    }
+
+    .sports-inner-titel h6 {
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 30px;
+
+    }
+
+    .whats-titel h1 {
+        font-size: 30px;
+        font-weight: 700;
+    }
+
+
+    .whats-sub-titel p {
+        max-width: 383px;
+        line-height: 25px;
+        margin-bottom: 18px;
+    }
+
+
+    .sober-titel h1 {
+        font-size: 30px;
+        line-height: 40px;
+        max-width: 450px;
+    }
+
+    .sober-titel p {
+        font-size: 17px;
+        line-height: 25px;
+        max-width: 439px;
+    }
+
+    .sober-inner-wrapper img {
+        width: 100%;
+        max-width: 400px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media screen and (max-width: 991px) {
+    .menu-toggle {
+        display: block;
+        order: 3;
+    }
+
+    .header-icon {
+        margin-left: auto;
+        margin-right: 20px;
+    }
+
+    .header-menu {
+        position: absolute;
+        top: calc(100% + 20px);
+        left: 0;
+        width: 100%;
+        background: #fff;
+        border-radius: 8px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, .08);
+
+        max-height: 0;
+        overflow: hidden;
+        transition: .4s ease;
+        z-index: 999;
+    }
+
+    .header-menu.active {
+        max-height: 500px;
+        padding: 15px 0;
+    }
+
+    .header-menu ul {
+        flex-direction: column;
+        gap: 0;
+    }
+
+    .header-menu ul li {
+        width: 100%;
+    }
+
+    .header-menu ul li a {
+        display: block;
+        padding: 15px 20px;
+        border-bottom: 1px solid #eee;
+    }
+
+    .header-menu ul li:last-child a {
+        border-bottom: none;
+    }
+
+    .footer-wrapper {
+
+        flex-wrap: wrap;
+
+    }
+
+    .footer-menu a {
+        font-size: 16px;
+
+    }
+
+    .footer-menu h4 {
+        font-size: 18px;
+        margin-bottom: 18px;
+    }
+
+    footer {
+
+        padding: 70px 0 60px;
+    }
+
+    .footer-icon img {
+        width: 25px;
+
+    }
+
+    .fotter-last-subheading p {
+        font-size: 16px;
+        font-weight: 300;
+        color: white;
+    }
+
+    .banner {
+        min-height: 600px;
+        padding: 100px 0 70px;
+    }
+
+    .banner h1 {
+        font-size: 54px;
+        max-width: 700px;
+    }
+
+    .banner p {
+        font-size: 17px;
+        max-width: 600px;
+    }
+
+    section.banner.inner-pages-banner {
+        min-height: 400px;
+    }
+
+    .inner-pages-banner h1 {
+        font-size: 40px;
+    }
+
+    .btn {
+        min-width: 180px;
+        padding: 14px 28px;
+        font-size: 15px;
+    }
+
+    .video video {
+
+        max-height: 500px;
+
+    }
+
+    .glim-titel h1 {
+        font-size: 30px;
+
+    }
+
+    .glim-inner-img {
+
+        min-height: 250px;
+
+    }
+
+    .glim-inner-img-titel {
+        max-width: 300px;
+        min-height: 111px;
+    }
+
+
+    .glim-inner-img-titel-a {
+        max-width: 300px;
+        min-height: 111px;
+
+    }
+
+    .glim-inner-img h3 {
+        font-size: 20px;
+
+    }
+
+    .glim-inner-img-titel h3 {
+        font-size: 20px;
+
+    }
+
+    .glim-inner-img-titel-a h3 {
+        font-size: 20px;
+
+    }
+
+    .vans-cards {
+        gap: 25px;
+    }
+
+    .card {
+        max-width: 48%;
+    }
+
+    .card-content h4 {
+        font-size: 26px;
+    }
+
+    section.glim {
+        padding: 15px 0px 60px;
+    }
+
+    .touch-wrapper {
+        flex-direction: column;
+    }
+
+    .touch-card,
+    .touch-card-a {
+        max-width: 100%;
+        width: 100%;
+        min-height: auto;
+    }
+
+    .touch-card {
+        border-radius: 10px 10px 0 0;
+    }
+
+    .touch-card-a {
+        border-radius: 0 0 10px 10px;
+        padding: 30px;
+    }
+
+    .touch-card h4,
+    .touch-card-a h4 {
+        font-size: 28px;
+        margin-top: 0;
+    }
+
+    .touch-inner-card input {
+        padding: 0 20px;
+    }
+
+
+
+    .stories {
+        padding: 70px 0;
+    }
+
+    .stories-wrapper h1 {
+        font-size: 42px;
+        margin-bottom: 35px;
+    }
+
+    .story-left h3 {
+        font-size: 24px;
+    }
+
+    .story-content {
+        padding: 0 25px 25px;
+    }
+
+    .story-content p,
+    .story-content a {
+        font-size: 18px;
+    }
+
+    .book-wrapper {
+
+        gap: 5px;
+
+    }
+
+
+
+    .preorder-wrapper {
+        flex-direction: column;
+        gap: 40px;
+        text-align: center;
+    }
+
+    .miles-wrapper {
+
+        padding: 50px 0 50px;
+
+    }
+
+
+    .miles-wrapperr {
+
+        padding: 50px 0 50px;
+
+    }
+
+
+    .sports-car-wrapper {
+
+        gap: 30px;
+    }
+
+    .sports-inner-img-heading span {
+        font-size: 16px;
+
+    }
+
+    .sports-inner-img-heading h4 {
+        font-size: 22px;
+        line-height: normal;
+    }
+
+    .sports-inner-img-heading p {
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 20px;
+
+    }
+
+    .sports-inner-titel h6 {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .sports-car-wrapper {
+        gap: 30px;
+        flex-direction: column-reverse;
+    }
+
+    .sports-inner-reader {
+        display: flex;
+        flex-direction: row;
+        gap: 20px;
+    }
+
+
+    .corner-wrapper p {
+        font-size: 17px;
+        max-width: 745px;
+        text-align: center;
+    }
+
+    .whats-titel h1 {
+        font-size: 25px;
+        font-weight: 700;
+    }
+
+
+    .whats-sub-titel p {
+        max-width: 383px;
+        line-height: 25px;
+        margin-bottom: 13px;
+    }
+
+    .sober-titel h1 {
+        font-size: 25px;
+        font-weight: 700;
+        line-height: 30px;
+
+        max-width: 365px;
+    }
+
+    .sober-titel p {
+        font-size: 15px;
+        line-height: 20px;
+        max-width: 340px;
+    }
+
+    .sober-inner-wrapper img {
+        width: 100%;
+        max-width: 300px;
+    }
+
+    .somewhere-wrapper {
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+
+    .some-where-titel h1 {
+        margin: 0 auto;
+        margin-bottom: 15px;
+    }
+
+    .some-where-titel p {
+
+        margin: 0 auto;
+    }
+
+    .some-where-titel h4 {
+
+        margin: 0 auto;
+    }
+
+    .thearapy-subheading img {
+        width: 100%;
+        max-width: 400px;
+    }
+
+    .thearpy-a p {
+        font-size: 17px;
+        line-height: 30px;
+        max-width: 357px;
+    }
+
+    .thearpy-a h2 {
+        font-size: 16px;
+        color: #FE5D16;
+    }
+
+    .direct-wrapper h1 {
+        font-size: 30px;
+    }
+
+    .direct-wrapper p {
+        font-size: 17px;
+        line-height: 25px;
+        max-width: 352px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     .touch {
+        padding: 70px 0;
+    }
+
+    .touch-wrapperr {
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    .touch-content,
+    .touch-form {
+        width: 100%;
+    }
+
+    .input-row {
+        flex-direction: column;
+        gap: 0;
+    }
+
+    .touch-content h2 {
+        font-size: 34px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media screen and (max-width: 767px) {
+    .header-logo img {
+        max-width: 140px;
+    }
+
+    .header-icon {
+        gap: 15px;
+        margin-right: 15px;
+    }
+
+    .header-icon img {
+        width: 18px;
+    }
+
+    .menu-toggle {
+        font-size: 28px;
+    }
+
+
+    .banner {
+        min-height: 520px;
+        padding: 90px 0 60px;
+        text-align: center;
+    }
+
+    .banner-wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .banner h1 {
+        font-size: 42px;
+        line-height: 1.2;
+        margin-bottom: 18px;
+    }
+
+    .banner p {
+        font-size: 16px;
+        line-height: 1.7;
+        margin-bottom: 24px;
+        max-width: 520px;
+    }
+
+    .banner-button-wrappper {
+        justify-content: center;
+
+        gap: 15px;
+    }
+
+    section.banner.inner-pages-banner {
+        min-height: 320px;
+    }
+
+    .inner-pages-banner h1 {
+        font-size: 32px;
+    }
+
+    .btn {
+        width: 100%;
+        min-width: auto;
+        padding: 14px 20px;
+        font-size: 15px;
+        border-radius: 10px;
+    }
+
+    .after-banner-sticker {
+
+        right: 66%;
+    }
+
+    .after-banner-image img {
+        min-width: 480px;
+
+    }
+
+    .neon-night-titel h1 {
+        font-size: 30px;
+        font-weight: 800;
+        color: white;
+    }
+
+    .neon-night-titel p {
+        width: 100%;
+        max-width: 639px;
+        margin-top: 19px;
+        margin-bottom: 18px;
+        font-size: 15px;
+        color: white;
+        font-weight: 300;
+    }
+
+    .neon-button-wrapper a {
+        width: calc(50% - 10px);
+        padding: 12px 15px;
+    }
+
+    .section-heading-50 {
+        font-size: 33px;
+    }
+
+    section.after-banner {
+        padding: 30px 0 40px;
+    }
+
+    .video video {
+
+        max-height: 450px;
+
+    }
+
+
+
+    .vans-wrapper h1 {
+        font-size: 36px;
+    }
+
+    .vans-wrapper p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .card {
+        max-width: 100%;
+    }
+
+    .card-content h4 {
+        font-size: 24px;
+    }
+
+    .card-content p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .touch-card h4 {
+        font-size: 20px;
+
+    }
+
+    .touch-card p {
+        font-size: 14px;
+
+    }
+
+    section.touch {
+        padding: 60px 0;
+    }
+
+    .touch-wrapper {
+        gap: 20px;
+    }
+
+    .touch-card,
+    .touch-card-a {
+        padding: 25px 20px;
+    }
+
+    .touch-card h4,
+    .touch-card-a h4 {
+        font-size: 24px;
+        line-height: 1.3;
+        margin-bottom: 20px;
+    }
+
+    .touch-card p,
+    .touch-card-a p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .touch-inner-card input {
+        width: 100%;
+        height: 50px;
+        padding: 0 15px;
+        margin-bottom: 20px;
+        border-radius: 10px;
+    }
+
+    input.main-input {
+        min-height: 130px;
+        padding-top: 15px;
+    }
+
+    .touch-card button {
+        width: 100%;
+        padding: 15px;
+    }
+
+    .touch-card-a-icon {
+        justify-content: center;
+        margin-top: 25px;
+    }
+
+    .video {
+        padding: 30px 0;
+    }
+
+    .vans {
+        padding: 15px 0;
+    }
+
+
+
+
+
+    .stories {
+        padding: 50px 0;
+    }
+
+    .stories-wrapper h1 {
+        font-size: 34px;
+    }
+
+    .story-head {
+        padding: 15px;
+    }
+
+    .story-left {
+        gap: 12px;
+    }
+
+    .story-left img {
+        width: 36px;
+        height: 36px;
+    }
+
+    .story-left h3 {
+        font-size: 20px;
+    }
+
+    .story-content {
+        padding: 0 15px 20px;
+    }
+
+    .story-content p,
+    .story-content a {
+        font-size: 16px;
+    }
+
+    .arrow {
+        font-size: 24px;
+    }
+
+    .journey-wrapper h1 {
+        font-size: 40px;
+
+    }
+
+    .journey-wrapper h4 {
+        font-size: 26px;
+        max-width: 410px;
+
+    }
+
+    .journey-wrapper p {
+        font-size: 16px;
+        max-width: 456px;
+
+    }
+
+    .book-titel h4 {
+        font-size: 25px;
+
+        margin-top: 12px;
+
+    }
+
+    .book-titel p {
+        font-size: 16px;
+        font-weight: 400;
+        ;
+        max-width: 410px;
+        margin-top: 10px;
+        margin-bottom: 12px;
+
+    }
+
+    .miles-wrapper {
+        flex-direction: column-reverse;
+        text-align: center;
+        gap: 30px;
+    }
+
+    .miles-inner-img img {
+        width: 100%;
+        max-width: 500px;
+    }
+
+    .miles-titel p {
+
+        font-size: 17px;
+        margin-top: 10px;
+        margin-bottom: 25px;
+        line-height: 25px;
+    }
+
+
+
+
+    .miles-wrapperr {
+        flex-direction: column;
+        text-align: center;
+        gap: 30px;
+    }
+
+    .miles-inner-imgg {
+        width: 100%;
+        max-width: 500px;
+    }
+
+    .miles-titell p {
+
+        font-size: 17px;
+        margin-top: 10px;
+        margin-bottom: 25px;
+        line-height: 25px;
+    }
+
+
+    .sports-inner-reader {
+        flex-direction: column;
+    }
+
+
+    .sports-reader {
+        width: 100%;
+    }
+
+
+    section.sports-cars {
+        padding: 20px 0 30px;
+    }
+
+    .whats-sub-titel p {
+        max-width: 100%;
+
+    }
+
+    .whats-wrapper {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .sober-titel h1 {
+        font-size: 17px;
+
+    }
+
+    .sober-titel p {
+        font-size: 14px;
+
+    }
+
+    .sober-inner-wrapper img {
+        width: 100%;
+        max-width: 300px;
+    }
+
+    .thearapy-subheading img {
+        width: 100%;
+        max-width: 400px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    .thearpy-a {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .thearpy-a p {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .thearapy-first-heading {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .thearapy-first-heading p {
+        color: white;
+        margin: 0 auto;
+    }
+
+
+
+
+    .thearapy-first-heading h1 {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .thearapy-subheading {
+        flex-direction: column-reverse;
+    }
+
+    .thearpy-a h2 {
+        text-align: center;
+    }
+
+
+    .direct-wrapper h1 {
+        font-size: 28px;
+    }
+
+    .direct-wrapper {
+        flex-direction: column-reverse;
+        gap: 20px;
+    }
+
+    .direct-wrapper p {
+        font-size: 17px;
+        line-height: 25px;
+        max-width: 100%;
+        text-align: center;
+    }
+
+    .direct-wrapper h1 {
+        font-size: 28px;
+        text-align: center;
+    }
+
+    .collection-wrapper h1 {
+        color: #fff;
+        font-size: 35px;
+    }
+
+    .c-cards img {
+        width: 100%;
+        max-width: 100%;
+    }
+
+        .touch {
+        padding: 50px 0;
+    }
+
+    .touch-content h2 {
+        font-size: 30px;
+    }
+
+    .touch-content h5 {
+        font-size: 18px;
+    }
+
+    .submit-btn {
+        width: 100%;
+    }
+
+    section.therapy {
+
+        padding: 5px 0 10px;
+    }
+
+    .therapy-wrapper {
+    padding: 20px 0 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media screen and (max-width: 575px) {
+    .menu-toggle {
+        font-size: 20px;
+    }
+
+    .header-menu ul a {
+        font-size: 14px;
+
+    }
+
+    .header-menu ul li a {
+
+        padding: 12px 12px;
+
+    }
+
+    .header-menu.active {
+
+        padding: 5px 0;
+    }
+
+    footer {
+        padding: 40px 0 40px;
+    }
+
+
+    .banner {
+        min-height: 480px;
+        padding: 80px 0 50px;
+    }
+
+    .banner h1 {
+        font-size: 34px;
+        line-height: 1.25;
+    }
+
+    .banner p {
+        font-size: 15px;
+        line-height: 1.7;
+    }
+
+    .banner-button-wrappper {
+
+        width: 100%;
+        gap: 12px;
+    }
+
+    .banner a {
+        font-size: 14px;
+
+        padding: 8px 20px;
+
+    }
+
+    section.banner.inner-pages-banner {
+        min-height: 260px;
+    }
+
+    .inner-pages-banner h1 {
+        font-size: 26px;
+        margin-bottom: 10px;
+    }
+
+    .after-banner-sticker {
+        right: 60%;
+    }
+
+    .after-banner-image img {
+        min-width: 410px;
+
+    }
+
+    .neon-night-titel h1 {
+        font-size: 24px;
+
+    }
+
+    .neon-night-titel p {
+        width: 100%;
+        max-width: 639px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 14px;
+        color: white;
+        font-weight: 300;
+    }
+
+    .neon-button-wrapper a {
+        width: 100%;
+        padding: 9px 15px;
+        margin-top: 10px;
+        font-size: 13px;
+        max-width: 240px;
+    }
+
+    .neon-night-wrapper {
+
+        flex-direction: column-reverse;
+    }
+
+    .neon-button-wrapper a {
+
+        max-width: 100%;
+    }
+
+    section.after-banner {
+        padding: 25px 0 40px;
+    }
+
+    .section-subheading {
+        font-size: 16px;
+        line-height: 28px;
+        color: black;
+        margin-bottom: 10px;
+    }
+
+    .video video {
+        max-height: 350px;
+    }
+
+    .glim-contant>div {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .glim-contant {
+
+        flex-direction: column;
+    }
+
+    .glim-inner-img-titel {
+        width: 100%;
+        max-width: 100%;
+        min-height: 190px;
+    }
+
+    .glim-inner-img-titel-a {
+        width: 100%;
+        max-width: 100%;
+        min-height: 190px;
+
+    }
+
+    section.glim {
+        padding: 30px 0px 60px;
+    }
+
+    .undercurrents-wrapper h1 {
+        font-size: 30px;
+    }
+
+    .undercurrents-wrapper p {
+        font-size: 16px;
+        max-width: 350px;
+
+    }
+
+    .shorts-wrapper h1 {
+        font-size: 30px;
+
+    }
+
+    .shorts-wrapper p {
+        max-width: 320px;
+        font-size: 15px;
+
+    }
+
+    .subscribe-form input {
+        width: 100%;
+        max-width: 170px;
+
+    }
+
+    .subscribe-form button {
+
+        width: 100%;
+        max-width: 130px;
+
+    }
+
+    .subscribe-form {
+        justify-content: center;
+    }
+
+    .glim-titel {
+
+        padding-bottom: 25px;
+    }
+
+    .stories-wrapper h1 {
+        font-size: 25px;
+    }
+
+    .tour-titel {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+
+    }
+
+    .tour-wrapper h1 {
+        font-size: 30px;
+
+    }
+
+    .tour-card h4 {
+
+        font-size: 20px;
+
+    }
+
+    section.undercurrents-a h1 {
+        font-size: 35px;
+
+    }
+
+    section.undercurrents-a p {
+        font-size: 15px;
+        max-width: 431px;
+
+    }
+
+    .journey-wrapper h1 {
+        font-size: 35px;
+    }
+
+    .journey-wrapper h4 {
+        font-size: 20px;
+        max-width: 225px;
+        text-align: center;
+        line-height: 30px;
+    }
+
+    .journey-wrapper p {
+        font-size: 15px;
+        max-width: 356px;
+        margin-top: 10px;
+    }
+
+    section.journey {
+        padding: 20px 0 40px;
+    }
+
+    .book-wrapper {
+        flex-direction: column-reverse;
+        gap: 25px;
+        text-align: center;
+    }
+
+    .preorder-inner-tittel-a h1 {
+        font-size: 35px;
+    }
+
+    .miles-inner-img img {
+        width: 100%;
+        max-width: 400px;
+    }
+
+    .miles-titel h1 {
+        font-size: 30px;
+
+    }
+
+    .miles-wrapper {
+        padding: 30px 0 30px;
+    }
+
+
+
+
+    .miles-inner-imgg {
+        width: 100%;
+        max-width: 400px;
+    }
+
+    .miles-titell h1 {
+        font-size: 30px;
+
+    }
+
+    .miles-wrapperr {
+        padding: 30px 0 30px;
+    }
+
+    .sports-inner-img-heading h4 {
+        font-size: 19px;
+        margin-top: 0px;
+        margin-bottom: 0;
+    }
+
+    .sober-wrapper {
+        flex-direction: column-reverse;
+        gap: 30px;
+        text-align: center;
+    }
+
+
+    .some-where-titel h1 {
+
+        margin-bottom: 15px;
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+
+    .some-where-titel h4 {
+        margin: 0 auto;
+        font-size: 21px;
+        font-weight: 700;
+    }
+
+    .learn-wrapper h1 {
+        font-size: 35px;
+    }
+
+    .learn-wrapper button {
+        padding: 14px 50px;
+    }
+
+    section.therapy {
+
+        padding: 5px 0 10px;
+    }
+
+    .direct-wrapper {
+        padding: 30px 0 30px;
+    }
+
+
+    .collection-wrapper h1 {
+        color: #fff;
+        font-size: 21px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media screen and (max-width: 480px) {
+    header {
+        padding: 15px 0;
+    }
+
+    .header-logo img {
+        max-width: 120px;
+    }
+
+    .header-icon {
+        gap: 12px;
+        margin-right: 12px;
+    }
+
+    .header-icon img {
+        width: 16px;
+    }
+
+    .footer-menu {
+
+        flex-direction: column;
+    }
+
+
+    .banner {
+        min-height: 440px;
+        padding: 70px 0 40px;
+    }
+
+    .banner h1 {
+        font-size: 28px;
+    }
+
+    .banner p {
+        font-size: 14px;
+    }
+
+    .banner a {
+        font-size: 15px;
+        padding: 11px 20px;
+    }
+
+    .banner a {
+        font-size: 13px;
+        padding: 8px 20px;
+    }
+
+    .banner-button-wrappper {
+        display: flex;
+        gap: 10px;
+    }
+
+    .btn {
+        padding: 12px 18px;
+        font-size: 14px;
+    }
+
+    .section-heading-50 {
+        font-size: 40px;
+    }
+
+
+
+    .after-banner-sticker {
+        max-width: 151px;
+        min-height: 150px;
+        top: 78%;
+        right: 64%;
+    }
+
+    .after-banner-sticker p {
+        font-size: 13px;
+    }
+
+    .after-banner-image img {
+        min-width: 330px;
+    }
+
+    .after-banner-sticker {
+
+        right: 58%;
+    }
+
+    .neon-night-wrapper {
+
+        flex-direction: column-reverse;
+    }
+
+    .neon-button-wrapper a {
+
+        max-width: 100%;
+    }
+
+    .section-heading-50 {
+        font-size: 28px;
+    }
+
+    section.after-banner {
+        padding: 25px 0 40px;
+    }
+
+    .video video {
+        max-height: 300px;
+    }
+
+    .glim-titel h1 {
+        font-size: 23px;
+    }
+
+    .glim-titel {
+
+        padding-bottom: 25px;
+    }
+
+    section.glim {
+        padding: 10px 0px 60px;
+    }
+
+    .shorts-wrapper {
+
+        gap: 15px;
+    }
+
+    .shorts-wrapper h1 {
+        font-size: 25px;
+    }
+
+    .shorts-wrapper p {
+        max-width: 300px;
+        font-size: 13px;
+    }
+
+    .touch-card,
+    .touch-card-a {
+        padding: 20px 15px;
+    }
+
+    .touch-card h4,
+    .touch-card-a h4 {
+        font-size: 22px;
+    }
+
+    .touch-card p,
+    .touch-card-a p {
+        font-size: 15px;
+        line-height: 26px;
+    }
+
+    .touch-inner-card input {
+        font-size: 15px;
+    }
+
+    .touch-card button {
+        font-size: 15px;
+    }
+
+    .touch-card-a-icon img {
+        width: 26px;
+        height: 26px;
+    }
+
+    .story-left h3 {
+        font-size: 16px;
+    }
+
+    .preorder-inner-tittel-a h1 {
+        font-size: 25px;
+    }
+
+    .preorder-inner-tittel-a p {
+
+        font-size: 16px;
+
+        line-height: 25px;
+
+    }
+
+    .miles-inner-img img {
+        width: 100%;
+        max-width: 300px;
+    }
+
+    .miles-inner-imgg {
+        width: 100%;
+        max-width: 300px;
+    }
+
+    .sports-inner-img-heading h4 {
+        font-size: 15px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        line-height: normal;
+    }
+
+    .some-where-titel h1 {
+        margin-bottom: 10px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .some-where-titel h4 {
+        font-size: 19px;
+        font-weight: 700;
+        line-height: 40px;
+    }
+
+    .learn-wrapper h1 {
+        font-size: 32px;
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media screen and (max-width: 380px) {
+    .after-banner-sticker {
+        top: 75%;
+        right: 56%;
+    }
+
+    .after-banner-image img {
+        min-width: 300px;
+    }
+
+
+
+    section.after-banner {
+        padding: 20px 0 40px;
+    }
+
+    .after-banner-sticker {
+        top: 68%;
+        right: 49%;
+    }
+
+    .section-subheading {
+        font-size: 15px;
+
+    }
+
+    .section-heading-50 {
+        font-size: 28px;
+    }
+
+    section.journey {
+        padding: 20px 0 30px;
+    }
+
+    .sports-inner-img-heading h4 {
+        font-size: 13px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        line-height: normal;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
